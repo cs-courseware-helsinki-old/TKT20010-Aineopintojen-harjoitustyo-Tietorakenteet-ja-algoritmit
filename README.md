@@ -1,0 +1,1 @@
+# TKT20010-Aineopintojen-harjoitusty-Tietorakenteet-ja-algoritmit
